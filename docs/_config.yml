@@ -23,7 +23,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Younga Shin
-  image             : https://i.imgur.com/uyDNQnn.jpg
+  image: "{{ site.baseurl }}/assets/img/profile.jpg"
   behance           : your_username
 # dribbble          : your_username
   email             : younga.shin@yonsei.ac.kr
