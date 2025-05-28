@@ -10,7 +10,7 @@
   percentage: 100
   color: warning
 
-  - name: Adobe Photoshop
+- name: Adobe Photoshop
   percentage: 80
   color: info
 
